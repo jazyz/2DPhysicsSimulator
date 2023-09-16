@@ -4,7 +4,7 @@ Project built with npx and MatterJS, an efficient 2D physics engine for Javascri
 
 Ball Collision: Use arrow keys to control gravity
 
-Block Collision: Attempt at simulating a 3blue1brown video https://www.youtube.com/watch?v=jsYwFizhncE&ab_channel=3Blue1Brown
+Block Collision: Attempt at simulating https://www.youtube.com/watch?v=jsYwFizhncE&ab_channel=3Blue1Brown
 
 Jenga: Carefully remove blocks without toppling the tower
 
